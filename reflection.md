@@ -1,0 +1,3 @@
+# COMP 271 WEEK 08 REFLECTION
+
+I was able to pass all of my tests on this assignment, I didn't struggle too much, I feel like I really understand hashtables. Something that I did struggle with was the rehash part of the assignment. I wasn't able to figure out how I should write my rehash method and unfortunately left it out. Even without it, our code for add were kind of identical. for the boolean contains method, we started differently, you started with setting boolean to false while I returned with false. There were some more differences in our code and I think that there is a lot that I can learn from what you wrote. Booleans are not my strong suit but after seeing how you used the boolean, there is a lot of ways that I could've improved my code.
